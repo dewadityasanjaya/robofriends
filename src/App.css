@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "TransformerFont";
+    src: url("./TransformerFont.ttf") format("truetype");
+}
+
+h1 {
+    font-family: "TransformerFont";
+    color: #f2f2f2;
+    ;
+}
